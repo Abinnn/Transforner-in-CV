@@ -12,6 +12,7 @@
 - Anaconda中安装python-opencv：https://www.cxyzjd.com/article/hahahahahahq/108804491
 - Conda管理python环境：https://ckfanzhe.github.io/About_conda/
 - Git生成SSH密钥：https://git-scm.com/book/zh/v2/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E7%9A%84-Git-%E7%94%9F%E6%88%90-SSH-%E5%85%AC%E9%92%A5
+- - detectron2安装：https://blog.csdn.net/XX_123_1_RJ/article/details/103779787?utm_medium=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~Rate-3.control404&depth_1-utm_source=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~Rate-3.control40
 
 
 ## Model Learning
