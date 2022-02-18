@@ -4,7 +4,7 @@
 - facebook detectron2: https://github.com/facebookresearch/detectron2
 - Pytorch model: https://github.com/rwightman/pytorch-image-models
 - CV Paper and Code: https://paperswithcode.com/area/computer-vision
-- Anaconda package install source:https://anaconda.org/
+- Anaconda package install source: https://anaconda.org/
 
 ## Q&A
 - windows系统下解压.tar文件失败：https://www.i4k.xyz/article/ruangaoyan/100154959
